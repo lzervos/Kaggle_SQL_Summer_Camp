@@ -1,3 +1,5 @@
 #Ignoring these files/directories
 
 .ipynb_checkpoints/
+# Temporarily ignore lessons folder
+# Lessons/
